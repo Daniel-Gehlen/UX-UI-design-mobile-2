@@ -2,16 +2,13 @@
 
 ---
 
-Watch how Wireframe works by clicking on the image below
-
----
-
 ![Tela 1](img/Tela-1.png)
 ![Tela 2](img/Tela-2.png)
 ![Tela 3](img/Tela-3.png)
 ![Tela 4](img/Tela-4.png)
 ---
 
+Watch how Wireframe works by clicking on the image below
 [![Assista ao Vídeo](https://img.youtube.com/vi/NdUTU9humSo/0.jpg)](https://www.youtube.com/watch?v=Svm5AxGU2Cg)
 
 ---
